@@ -1,0 +1,33 @@
+/* Inserta tu CSS aqui */
+.celeste{
+    width: 280px;
+    height: 280px;
+    background-color: deepskyblue;
+    position:static;
+}
+.verde{
+    width: 130px;
+    height: 130px;
+    background-color: darkgreen;
+    position: relative;
+    bottom:  201px;
+    left: 80px;
+    
+}
+.negro{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+    top: 8px;
+    
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+    border: 1.5px solid black;
+    margin-left: 540px;
+    color: azure;
+    background-color: black;
+    padding: 8px;
+}
